@@ -20,7 +20,6 @@ Each dataset is assessed based on its provenance, sample size, advantages, limit
 ### <span style="color:#C0392B;">Weaknesses</span>
 - No documentation on data collection methodology.
 - No demographic details included.
-- Provenance uncertainty limits scientific rigor.
 
 ---
 
@@ -35,7 +34,6 @@ Each dataset is assessed based on its provenance, sample size, advantages, limit
 ### <span style="color:#2471A3;">Advantages</span>
 - Rich set of health and diagnostic indicators.
 - Useful for understanding Alzheimer's patterns in diagnosed individuals.
-- Synthetic → safe to share and research.
 
 ### <span style="color:#C0392B;">Weaknesses</span>
 - Does *not* support pre-clinical or preventive modelling.
@@ -113,11 +111,10 @@ Each dataset is assessed based on its provenance, sample size, advantages, limit
 ### <span style="color:#2471A3;">Advantages</span>
 - Large dataset with depression-related variables.
 - Useful for assessing psychological precursors to cognitive stress.
-- Good for classification modelling.
 
 ### <span style="color:#C0392B;">Weaknesses</span>
 - Synthetic → limited realism.
-- Focuses only on students; poor generalization to adults or elderly.
+- Focuses only on students; poor generalization 
 - No clinical verification.
 
 ---
@@ -137,7 +134,6 @@ Each dataset is assessed based on its provenance, sample size, advantages, limit
 ### <span style="color:#C0392B;">Weaknesses</span>
 - Very small sample size → low statistical power.
 - Synthetic → limits real-world applicability.
-- No temporal or longitudinal structure.
 
 ---
 

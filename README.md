@@ -145,7 +145,7 @@ Each dataset is assessed based on its provenance, sample size, advantages, limit
 | Alzheimer’s | 2,149 | Synthetic | Synthetic | Rich clinical features | Post-diagnosis only |
 | Cognitive Performance | 80,000 | Undefined | Unknown | Very large dataset | Unverified origin |
 | B12 Anemia | 15,300 | Turkey medical records | Real | Clinically reliable | Misses Personality trait items |
-| Anxiety Levels | 10,000+ | Australia surveys | Real | High psychological relevance | Survey bias |
+| Anxiety Levels | 11,000 | Australia surveys | Real | High psychological relevance | Survey bias |
 | Student Depression | 27,901 | Synthetic | Synthetic | Large mental health dataset | Student-only |
 | Sleep Health | 400 | Synthetic | Synthetic | Good feature variety | Very small dataset |
 

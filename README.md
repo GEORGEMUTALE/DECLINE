@@ -1,3 +1,39 @@
+# 🧠 Cognitive Decline
+
+## 📊 Variables to Include
+- **Personality traits** (questionnaire-based items)
+- **Blood biomarkers**  
+  - Vitamin B12 deficiency  
+  - Thyroid dysfunction (e.g., hypothyroidism)
+- **General biomarker data**
+- **Cognitive test results** (standardized questionnaires)
+- **Physiological & lifestyle factors**  
+  - Sleep patterns  
+  - Physical activity  
+  - Stress levels
+
+## 🧩 Key Factors to Consider
+- Chronic stress
+- Anxiety
+- Depression
+- Cognitive performance
+- Vitamin B12 deficiency
+
+## 🌐 Health Data Sources
+- **Google Dataset Search**
+- **Kaggle**
+- **Data.gov**
+- **NAKO Gesundheitsstudie (Germany)**
+
+## ⚠️ Challenges in Obtaining Datasets
+- Restricted or controlled access (e.g., NAKO Germany)
+- Difficulty identifying datasets that truly match the use case
+- Poor data quality  
+  - Missing documentation  
+  - Bias in collected data
+- Limited interoperability between datasets
+- Non-downloadable or inconvenient data formats
+
 # <span style="color:#2A4D9B;">Cognitive Decline Factors – Dataset Evaluation Report</span>
 
 This report provides evaluation of multiple datasets relevant to modelling **pre-clinical factors related to cognitive decline**.  
@@ -159,5 +195,11 @@ Among all datasets evaluated, **the Anxiety Levels dataset** offers the stronges
 
 
 My final dataset is **the Anxiety Levels Dataset**
+
+
+# How I came to this conclusion
+
+<img src="./tree.jpeg" alt="Cognitive Decline Diagram" width="800">
+
 
 ---

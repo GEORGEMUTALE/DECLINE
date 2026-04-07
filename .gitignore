@@ -1,4 +1,17 @@
-.venv
-.vscode
-predictive_model.pkl
-predictive_model.pkl
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.dll
+*.dylib
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints

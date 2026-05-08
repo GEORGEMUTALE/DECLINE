@@ -1,0 +1,45 @@
+Feature,Diagnosis,Mean,Std,Count,Mean (%),Std (%)
+Age,Non-Diagnosed,41.09,13.65,7075,,
+Age,Diagnosed,39.20,12.71,3925,,
+Sleep Hours,Non-Diagnosed,7.17,1.48,7075,,
+Sleep Hours,Diagnosed,6.05,1.60,3925,,
+Physical Activity (hrs/week),Non-Diagnosed,3.08,1.81,7075,,
+Physical Activity (hrs/week),Diagnosed,2.62,1.85,3925,,
+Caffeine Intake (mg/day),Non-Diagnosed,286.39,173.51,7075,,
+Caffeine Intake (mg/day),Diagnosed,361.78,160.89,3925,,
+Alcohol Consumption (drinks/week),Non-Diagnosed,9.49,5.78,7075,,
+Alcohol Consumption (drinks/week),Diagnosed,10.15,5.58,3925,,
+Smoking,Non-Diagnosed,,,7075,22.76,41.93
+Smoking,Diagnosed,,,3925,22.39,41.69
+Family History of Anxiety,Non-Diagnosed,,,7075,13.55,34.23
+Family History of Anxiety,Diagnosed,,,3925,12.99,33.62
+Stress Level (1-10),Non-Diagnosed,4.52,2.62,7075,,
+Stress Level (1-10),Diagnosed,8.13,1.87,3925,,
+Heart Rate (bpm),Non-Diagnosed,89.72,17.17,7075,,
+Heart Rate (bpm),Diagnosed,93.30,16.85,3925,,
+Breathing Rate (breaths/min),Non-Diagnosed,20.43,5.22,7075,,
+Breathing Rate (breaths/min),Diagnosed,21.45,5.05,3925,,
+Sweating Level (1-5),Non-Diagnosed,2.98,1.41,7075,,
+Sweating Level (1-5),Diagnosed,3.27,1.36,3925,,
+Dizziness,Non-Diagnosed,,,7075,50.20,50.00
+Dizziness,Diagnosed,,,3925,54.65,49.78
+Medication,Non-Diagnosed,,,7075,49.09,49.99
+Medication,Diagnosed,,,3925,54.11,49.83
+Therapy Sessions (per month),Non-Diagnosed,4.25,2.86,7075,,
+Therapy Sessions (per month),Diagnosed,5.46,2.67,3925,,
+Recent Major Life Event,Non-Diagnosed,,,7075,49.40,50.00
+Recent Major Life Event,Diagnosed,,,3925,57.48,49.44
+Diet Quality (1-10),Non-Diagnosed,5.47,2.86,7075,,
+Diet Quality (1-10),Diagnosed,4.74,2.85,3925,,
+Anxiety Level (1-10),Non-Diagnosed,2.91,1.01,7075,,
+Anxiety Level (1-10),Diagnosed,6.39,1.71,3925,,
+Smoking,Non-Diagnosed,,,7075,22.76,41.93
+Smoking,Diagnosed,,,3925,22.39,41.69
+Family History of Anxiety,Non-Diagnosed,,,7075,13.55,34.23
+Family History of Anxiety,Diagnosed,,,3925,12.99,33.62
+Dizziness,Non-Diagnosed,,,7075,50.20,50.00
+Dizziness,Diagnosed,,,3925,54.65,49.78
+Medication,Non-Diagnosed,,,7075,49.09,49.99
+Medication,Diagnosed,,,3925,54.11,49.83
+Recent Major Life Event,Non-Diagnosed,,,7075,49.40,50.00
+Recent Major Life Event,Diagnosed,,,3925,57.48,49.44
